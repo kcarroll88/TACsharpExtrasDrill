@@ -10,6 +10,9 @@ namespace TACsharpExtrasDrill
     {
         static void Main(string[] args)
         {
-        }
+            const string name = "Keenan";
+
+            var twentyOne = 21;
+        }       
     }
 }
